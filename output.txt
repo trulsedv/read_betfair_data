@@ -1,0 +1,410 @@
+{'home_team': 'Aston Villa', 'away_team': 'Everton', 'home_odds': 1.8, 'draw_odds': 3.7, 'away_odds': 5.7, 'date': '13.Aug.2022'}
+{'home_team': 'Brentford', 'away_team': 'Man Utd', 'home_odds': 4.8, 'draw_odds': 4.2, 'away_odds': 1.82, 'date': '13.Aug.2022'}
+{'home_team': 'Brighton', 'away_team': 'Newcastle', 'home_odds': 2.56, 'draw_odds': 3.4, 'away_odds': 3.2, 'date': '13.Aug.2022'}
+{'home_team': 'Arsenal', 'away_team': 'Leicester', 'home_odds': 1.61, 'draw_odds': 4.4, 'away_odds': 6.4, 'date': '13.Aug.2022'}
+{'home_team': 'Man City', 'away_team': 'Bournemouth', 'home_odds': 1.09, 'draw_odds': 17.0, 'away_odds': 50.0, 'date': '13.Aug.2022'}
+{'home_team': 'Southampton', 'away_team': 'Leeds', 'home_odds': 2.5, 'draw_odds': 3.75, 'away_odds': 3.05, 'date': '13.Aug.2022'}
+{'home_team': 'Wolves', 'away_team': 'Fulham', 'home_odds': 2.26, 'draw_odds': 3.55, 'away_odds': 3.65, 'date': '13.Aug.2022'}
+{'home_team': 'Chelsea', 'away_team': 'Tottenham', 'home_odds': 2.2, 'draw_odds': 3.6, 'away_odds': 3.7, 'date': '14.Aug.2022'}
+{'home_team': 'Nottm Forest', 'away_team': 'West Ham', 'home_odds': 4.2, 'draw_odds': 3.75, 'away_odds': 2.02, 'date': '14.Aug.2022'}
+{'home_team': 'Liverpool', 'away_team': 'Crystal Palace', 'home_odds': 1.3, 'draw_odds': 6.6, 'away_odds': 13.5, 'date': '15.Aug.2022'}
+{'home_team': 'Bournemouth', 'away_team': 'Arsenal', 'home_odds': 8.6, 'draw_odds': 5.1, 'away_odds': 1.45, 'date': '20.Aug.2022'}
+{'home_team': 'Crystal Palace', 'away_team': 'Aston Villa', 'home_odds': 2.62, 'draw_odds': 3.25, 'away_odds': 3.25, 'date': '20.Aug.2022'}
+{'home_team': 'Fulham', 'away_team': 'Brentford', 'home_odds': 2.74, 'draw_odds': 3.55, 'away_odds': 2.86, 'date': '20.Aug.2022'}
+{'home_team': 'Tottenham', 'away_team': 'Wolves', 'home_odds': 1.48, 'draw_odds': 5.0, 'away_odds': 7.8, 'date': '20.Aug.2022'}
+{'home_team': 'Leicester', 'away_team': 'Southampton', 'home_odds': 1.76, 'draw_odds': 4.5, 'away_odds': 5.0, 'date': '20.Aug.2022'}
+{'home_team': 'Everton', 'away_team': 'Nottm Forest', 'home_odds': 1.9, 'draw_odds': 3.8, 'away_odds': 4.8, 'date': '20.Aug.2022'}
+{'home_team': 'Leeds', 'away_team': 'Chelsea', 'home_odds': 6.8, 'draw_odds': 5.0, 'away_odds': 1.55, 'date': '21.Aug.2022'}
+{'home_team': 'Newcastle', 'away_team': 'Man City', 'home_odds': 6.8, 'draw_odds': 5.2, 'away_odds': 1.51, 'date': '21.Aug.2022'}
+{'home_team': 'West Ham', 'away_team': 'Brighton', 'home_odds': 2.66, 'draw_odds': 3.5, 'away_odds': 3.0, 'date': '21.Aug.2022'}
+{'home_team': 'Man Utd', 'away_team': 'Liverpool', 'home_odds': 4.8, 'draw_odds': 4.5, 'away_odds': 1.74, 'date': '22.Aug.2022'}
+{'home_team': 'Brighton', 'away_team': 'Leeds', 'home_odds': 1.79, 'draw_odds': 4.0, 'away_odds': 5.3, 'date': '27.Aug.2022'}
+{'home_team': 'Liverpool', 'away_team': 'Bournemouth', 'home_odds': 1.16, 'draw_odds': 10.5, 'away_odds': 24.0, 'date': '27.Aug.2022'}
+{'home_team': 'Southampton', 'away_team': 'Man Utd', 'home_odds': 3.9, 'draw_odds': 4.0, 'away_odds': 2.04, 'date': '27.Aug.2022'}
+{'home_team': 'Brentford', 'away_team': 'Everton', 'home_odds': 2.06, 'draw_odds': 3.6, 'away_odds': 4.1, 'date': '27.Aug.2022'}
+{'home_team': 'Man City', 'away_team': 'Crystal Palace', 'home_odds': 1.21, 'draw_odds': 8.6, 'away_odds': 18.0, 'date': '27.Aug.2022'}
+{'home_team': 'Arsenal', 'away_team': 'Fulham', 'home_odds': 1.44, 'draw_odds': 5.5, 'away_odds': 8.2, 'date': '27.Aug.2022'}
+{'home_team': 'Chelsea', 'away_team': 'Leicester', 'home_odds': 1.42, 'draw_odds': 5.4, 'away_odds': 9.0, 'date': '27.Aug.2022'}
+{'home_team': 'Wolves', 'away_team': 'Newcastle', 'home_odds': 2.7, 'draw_odds': 3.35, 'away_odds': 3.05, 'date': '28.Aug.2022'}
+{'home_team': 'Aston Villa', 'away_team': 'West Ham', 'home_odds': 2.18, 'draw_odds': 3.6, 'away_odds': 3.9, 'date': '28.Aug.2022'}
+{'home_team': 'Nottm Forest', 'away_team': 'Tottenham', 'home_odds': 7.6, 'draw_odds': 5.0, 'away_odds': 1.51, 'date': '28.Aug.2022'}
+{'home_team': 'Crystal Palace', 'away_team': 'Brentford', 'home_odds': 2.2, 'draw_odds': 3.55, 'away_odds': 3.7, 'date': '30.Aug.2022'}
+{'home_team': 'Leeds', 'away_team': 'Everton', 'home_odds': 2.18, 'draw_odds': 3.8, 'away_odds': 3.65, 'date': '30.Aug.2022'}
+{'home_team': 'Fulham', 'away_team': 'Brighton', 'home_odds': 3.45, 'draw_odds': 3.3, 'away_odds': 2.4, 'date': '30.Aug.2022'}
+{'home_team': 'Southampton', 'away_team': 'Chelsea', 'home_odds': 5.6, 'draw_odds': 4.3, 'away_odds': 1.73, 'date': '30.Aug.2022'}
+{'home_team': 'Arsenal', 'away_team': 'Aston Villa', 'home_odds': 1.56, 'draw_odds': 4.6, 'away_odds': 7.2, 'date': '31.Aug.2022'}
+{'home_team': 'Bournemouth', 'away_team': 'Wolves', 'home_odds': 3.4, 'draw_odds': 3.35, 'away_odds': 2.46, 'date': '31.Aug.2022'}
+{'home_team': 'Liverpool', 'away_team': 'Newcastle', 'home_odds': 1.29, 'draw_odds': 6.8, 'away_odds': 12.0, 'date': '31.Aug.2022'}
+{'home_team': 'West Ham', 'away_team': 'Tottenham', 'home_odds': 3.4, 'draw_odds': 3.55, 'away_odds': 2.36, 'date': '31.Aug.2022'}
+{'home_team': 'Man City', 'away_team': 'Nottm Forest', 'home_odds': 1.1, 'draw_odds': 15.5, 'away_odds': 32.0, 'date': '31.Aug.2022'}
+{'home_team': 'Everton', 'away_team': 'Chelsea', 'home_odds': 7.4, 'draw_odds': 4.3, 'away_odds': 1.58, 'date': '6.Aug.2022'}
+{'home_team': 'Bournemouth', 'away_team': 'Aston Villa', 'home_odds': 4.4, 'draw_odds': 3.6, 'away_odds': 2.04, 'date': '6.Aug.2022'}
+{'home_team': 'Crystal Palace', 'away_team': 'Arsenal', 'home_odds': 4.9, 'draw_odds': 3.75, 'away_odds': 1.9, 'date': '5.Aug.2022'}
+{'home_team': 'Fulham', 'away_team': 'Liverpool', 'home_odds': 11.5, 'draw_odds': 7.0, 'away_odds': 1.29, 'date': '6.Aug.2022'}
+{'home_team': 'Leeds', 'away_team': 'Wolves', 'home_odds': 2.48, 'draw_odds': 3.5, 'away_odds': 3.2, 'date': '6.Aug.2022'}
+{'home_team': 'Newcastle', 'away_team': 'Nottm Forest', 'home_odds': 1.58, 'draw_odds': 4.4, 'away_odds': 7.2, 'date': '6.Aug.2022'}
+{'home_team': 'Tottenham', 'away_team': 'Southampton', 'home_odds': 1.4, 'draw_odds': 5.6, 'away_odds': 9.0, 'date': '6.Aug.2022'}
+{'home_team': 'Man Utd', 'away_team': 'Brighton', 'home_odds': 1.79, 'draw_odds': 3.95, 'away_odds': 5.1, 'date': '7.Aug.2022'}
+{'home_team': 'Leicester', 'away_team': 'Brentford', 'home_odds': 1.98, 'draw_odds': 3.85, 'away_odds': 4.2, 'date': '7.Aug.2022'}
+{'home_team': 'West Ham', 'away_team': 'Man City', 'home_odds': 8.6, 'draw_odds': 5.5, 'away_odds': 1.42, 'date': '7.Aug.2022'}
+{'home_team': 'Aston Villa', 'away_team': 'Chelsea', 'home_odds': 2.18, 'draw_odds': 4.0, 'away_odds': 3.45, 'date': '11.Dec.2022', 'other': True}
+{'home_team': 'Newcastle', 'away_team': 'Crystal Palace', 'home_odds': 1.71, 'draw_odds': 4.0, 'away_odds': 6.2, 'date': '12.Dec.2022', 'other': True}
+{'home_team': 'Fulham', 'away_team': 'West Ham', 'home_odds': 2.84, 'draw_odds': 3.95, 'away_odds': 2.42, 'date': '17.Dec.2022', 'other': True}
+{'home_team': 'Newcastle', 'away_team': 'Bournemouth', 'home_odds': 1.33, 'draw_odds': 6.4, 'away_odds': 12.0, 'date': '20.Dec.2022', 'other': True}
+{'home_team': 'Man City', 'away_team': 'Liverpool', 'home_odds': 1.56, 'draw_odds': 5.0, 'away_odds': 6.2, 'date': '22.Dec.2022', 'other': True}
+{'home_team': 'Arsenal', 'away_team': 'West Ham', 'home_odds': 1.6, 'draw_odds': 4.4, 'away_odds': 6.8, 'date': '26.Dec.2022'}
+{'home_team': 'Crystal Palace', 'away_team': 'Fulham', 'home_odds': 2.3, 'draw_odds': 3.6, 'away_odds': 3.35, 'date': '26.Dec.2022'}
+{'home_team': 'Brentford', 'away_team': 'Tottenham', 'home_odds': 3.5, 'draw_odds': 3.75, 'away_odds': 2.24, 'date': '26.Dec.2022'}
+{'home_team': 'Aston Villa', 'away_team': 'Liverpool', 'home_odds': 5.0, 'draw_odds': 4.3, 'away_odds': 1.77, 'date': '26.Dec.2022'}
+{'home_team': 'Everton', 'away_team': 'Wolves', 'home_odds': 2.64, 'draw_odds': 3.3, 'away_odds': 3.05, 'date': '26.Dec.2022'}
+{'home_team': 'Leicester', 'away_team': 'Newcastle', 'home_odds': 3.6, 'draw_odds': 3.65, 'away_odds': 2.26, 'date': '26.Dec.2022'}
+{'home_team': 'Southampton', 'away_team': 'Brighton', 'home_odds': 3.8, 'draw_odds': 3.75, 'away_odds': 2.16, 'date': '26.Dec.2022'}
+{'home_team': 'Chelsea', 'away_team': 'Bournemouth', 'home_odds': 1.38, 'draw_odds': 5.5, 'away_odds': 10.0, 'date': '27.Dec.2022'}
+{'home_team': 'Man Utd', 'away_team': 'Nottm Forest', 'home_odds': 1.4, 'draw_odds': 5.5, 'away_odds': 9.6, 'date': '27.Dec.2022'}
+{'home_team': 'Leeds', 'away_team': 'Man City', 'home_odds': 12.0, 'draw_odds': 7.0, 'away_odds': 1.29, 'date': '28.Dec.2022'}
+{'home_team': 'West Ham', 'away_team': 'Brentford', 'home_odds': 2.12, 'draw_odds': 3.75, 'away_odds': 3.8, 'date': '30.Dec.2022'}
+{'home_team': 'Liverpool', 'away_team': 'Leicester', 'home_odds': 1.29, 'draw_odds': 6.8, 'away_odds': 13.0, 'date': '30.Dec.2022'}
+{'home_team': 'Bournemouth', 'away_team': 'Crystal Palace', 'home_odds': 3.1, 'draw_odds': 3.3, 'away_odds': 2.72, 'date': '31.Dec.2022'}
+{'home_team': 'Newcastle', 'away_team': 'Leeds', 'home_odds': 1.5, 'draw_odds': 4.9, 'away_odds': 7.8, 'date': '31.Dec.2022'}
+{'home_team': 'Man City', 'away_team': 'Everton', 'home_odds': 1.16, 'draw_odds': 10.5, 'away_odds': 24.0, 'date': '31.Dec.2022'}
+{'home_team': 'Wolves', 'away_team': 'Man Utd', 'home_odds': 4.5, 'draw_odds': 3.75, 'away_odds': 1.99, 'date': '31.Dec.2022'}
+{'home_team': 'Fulham', 'away_team': 'Southampton', 'home_odds': 1.86, 'draw_odds': 4.1, 'away_odds': 4.6, 'date': '31.Dec.2022'}
+{'home_team': 'Aston Villa', 'away_team': 'Brighton', 'home_odds': 1.93, 'draw_odds': 4.4, 'away_odds': 3.85, 'date': '8.Dec.2022', 'other': True}
+{'home_team': 'Man Utd', 'away_team': 'Aston Villa', 'home_odds': 1.72, 'draw_odds': 4.3, 'away_odds': 5.4, 'date': '10.Nov.2022', 'other': True}
+{'home_team': 'Newcastle', 'away_team': 'Chelsea', 'home_odds': 2.22, 'draw_odds': 3.5, 'away_odds': 3.7, 'date': '12.Nov.2022'}
+{'home_team': 'Wolves', 'away_team': 'Arsenal', 'home_odds': 7.6, 'draw_odds': 4.4, 'away_odds': 1.56, 'date': '12.Nov.2022'}
+{'home_team': 'Man City', 'away_team': 'Brentford', 'home_odds': 1.18, 'draw_odds': 9.4, 'away_odds': 25.0, 'date': '12.Nov.2022'}
+{'home_team': 'Bournemouth', 'away_team': 'Everton', 'home_odds': 2.92, 'draw_odds': 3.35, 'away_odds': 2.76, 'date': '12.Nov.2022'}
+{'home_team': 'Liverpool', 'away_team': 'Southampton', 'home_odds': 1.29, 'draw_odds': 7.0, 'away_odds': 12.5, 'date': '12.Nov.2022'}
+{'home_team': 'Nottm Forest', 'away_team': 'Crystal Palace', 'home_odds': 3.65, 'draw_odds': 3.2, 'away_odds': 2.4, 'date': '12.Nov.2022'}
+{'home_team': 'Tottenham', 'away_team': 'Leeds', 'home_odds': 1.65, 'draw_odds': 4.6, 'away_odds': 5.9, 'date': '12.Nov.2022'}
+{'home_team': 'West Ham', 'away_team': 'Leicester', 'home_odds': 2.02, 'draw_odds': 3.65, 'away_odds': 4.2, 'date': '12.Nov.2022'}
+{'home_team': 'Fulham', 'away_team': 'Man Utd', 'home_odds': 4.6, 'draw_odds': 3.9, 'away_odds': 1.89, 'date': '13.Nov.2022'}
+{'home_team': 'Brighton', 'away_team': 'Aston Villa', 'home_odds': 1.82, 'draw_odds': 4.0, 'away_odds': 5.0, 'date': '13.Nov.2022'}
+{'home_team': 'Leeds', 'away_team': 'Bournemouth', 'home_odds': 1.64, 'draw_odds': 4.5, 'away_odds': 5.9, 'date': '5.Nov.2022'}
+{'home_team': 'Wolves', 'away_team': 'Brighton', 'home_odds': 3.5, 'draw_odds': 3.5, 'away_odds': 2.26, 'date': '5.Nov.2022'}
+{'home_team': 'Nottm Forest', 'away_team': 'Brentford', 'home_odds': 2.8, 'draw_odds': 3.35, 'away_odds': 2.98, 'date': '5.Nov.2022'}
+{'home_team': 'Everton', 'away_team': 'Leicester', 'home_odds': 2.64, 'draw_odds': 3.5, 'away_odds': 3.0, 'date': '5.Nov.2022'}
+{'home_team': 'Man City', 'away_team': 'Fulham', 'home_odds': 1.2, 'draw_odds': 8.6, 'away_odds': 19.0, 'date': '5.Nov.2022'}
+{'home_team': 'Southampton', 'away_team': 'Newcastle', 'home_odds': 4.6, 'draw_odds': 4.0, 'away_odds': 1.87, 'date': '6.Nov.2022'}
+{'home_team': 'Aston Villa', 'away_team': 'Man Utd', 'home_odds': 3.3, 'draw_odds': 3.7, 'away_odds': 2.34, 'date': '6.Nov.2022'}
+{'home_team': 'Chelsea', 'away_team': 'Arsenal', 'home_odds': 2.78, 'draw_odds': 3.55, 'away_odds': 2.78, 'date': '6.Nov.2022'}
+{'home_team': 'West Ham', 'away_team': 'Crystal Palace', 'home_odds': 1.95, 'draw_odds': 3.55, 'away_odds': 4.9, 'date': '6.Nov.2022'}
+{'home_team': 'Tottenham', 'away_team': 'Liverpool', 'home_odds': 3.5, 'draw_odds': 4.1, 'away_odds': 2.1, 'date': '6.Nov.2022'}
+{'home_team': 'Bournemouth', 'away_team': 'Everton', 'home_odds': 3.1, 'draw_odds': 3.4, 'away_odds': 2.5, 'date': '8.Nov.2022', 'other': True}
+{'home_team': 'Arsenal', 'away_team': 'Brighton', 'home_odds': 2.32, 'draw_odds': 3.65, 'away_odds': 3.3, 'date': '9.Nov.2022', 'other': True}
+{'home_team': 'Nottm Forest', 'away_team': 'Tottenham', 'home_odds': 4.1, 'draw_odds': 3.85, 'away_odds': 1.99, 'date': '9.Nov.2022', 'other': True}
+{'home_team': 'Man City', 'away_team': 'Chelsea', 'home_odds': 1.55, 'draw_odds': 4.7, 'away_odds': 7.0, 'date': '9.Nov.2022', 'other': True}
+{'home_team': 'Wolves', 'away_team': 'Leeds', 'home_odds': 1.74, 'draw_odds': 4.2, 'away_odds': 5.2, 'date': '9.Nov.2022', 'other': True}
+{'home_team': 'Arsenal', 'away_team': 'Tottenham', 'home_odds': 2.04, 'draw_odds': 3.9, 'away_odds': 4.0, 'date': '1.Oct.2022'}
+{'home_team': 'Liverpool', 'away_team': 'Brighton', 'home_odds': 1.51, 'draw_odds': 5.0, 'away_odds': 7.6, 'date': '1.Oct.2022'}
+{'home_team': 'Southampton', 'away_team': 'Everton', 'home_odds': 2.42, 'draw_odds': 3.4, 'away_odds': 3.45, 'date': '1.Oct.2022'}
+{'home_team': 'Crystal Palace', 'away_team': 'Chelsea', 'home_odds': 5.1, 'draw_odds': 4.1, 'away_odds': 1.77, 'date': '1.Oct.2022'}
+{'home_team': 'West Ham', 'away_team': 'Wolves', 'home_odds': 2.06, 'draw_odds': 3.55, 'away_odds': 4.2, 'date': '1.Oct.2022'}
+{'home_team': 'Fulham', 'away_team': 'Newcastle', 'home_odds': 3.1, 'draw_odds': 3.65, 'away_odds': 2.5, 'date': '1.Oct.2022'}
+{'home_team': 'Bournemouth', 'away_team': 'Brentford', 'home_odds': 3.4, 'draw_odds': 3.65, 'away_odds': 2.34, 'date': '1.Oct.2022'}
+{'home_team': 'Nottm Forest', 'away_team': 'Aston Villa', 'home_odds': 3.95, 'draw_odds': 3.8, 'away_odds': 2.08, 'date': '10.Oct.2022'}
+{'home_team': 'Brentford', 'away_team': 'Brighton', 'home_odds': 3.4, 'draw_odds': 3.5, 'away_odds': 2.42, 'date': '14.Oct.2022'}
+{'home_team': 'Tottenham', 'away_team': 'Everton', 'home_odds': 1.48, 'draw_odds': 5.1, 'away_odds': 7.8, 'date': '15.Oct.2022'}
+{'home_team': 'Leicester', 'away_team': 'Crystal Palace', 'home_odds': 2.54, 'draw_odds': 3.65, 'away_odds': 3.0, 'date': '15.Oct.2022'}
+{'home_team': 'Fulham', 'away_team': 'Bournemouth', 'home_odds': 2.0, 'draw_odds': 3.8, 'away_odds': 4.2, 'date': '15.Oct.2022'}
+{'home_team': 'Wolves', 'away_team': 'Nottm Forest', 'home_odds': 1.79, 'draw_odds': 4.1, 'away_odds': 5.4, 'date': '15.Oct.2022'}
+{'home_team': 'Aston Villa', 'away_team': 'Chelsea', 'home_odds': 4.2, 'draw_odds': 3.55, 'away_odds': 2.08, 'date': '16.Oct.2022'}
+{'home_team': 'Man Utd', 'away_team': 'Newcastle', 'home_odds': 2.12, 'draw_odds': 3.7, 'away_odds': 3.85, 'date': '16.Oct.2022'}
+{'home_team': 'Leeds', 'away_team': 'Arsenal', 'home_odds': 5.4, 'draw_odds': 4.3, 'away_odds': 1.72, 'date': '16.Oct.2022'}
+{'home_team': 'Liverpool', 'away_team': 'Man City', 'home_odds': 4.1, 'draw_odds': 4.3, 'away_odds': 1.91, 'date': '16.Oct.2022'}
+{'home_team': 'Southampton', 'away_team': 'West Ham', 'home_odds': 3.05, 'draw_odds': 3.4, 'away_odds': 2.64, 'date': '16.Oct.2022'}
+{'home_team': 'Crystal Palace', 'away_team': 'Wolves', 'home_odds': 2.16, 'draw_odds': 3.45, 'away_odds': 4.1, 'date': '18.Oct.2022'}
+{'home_team': 'Brighton', 'away_team': 'Nottm Forest', 'home_odds': 1.41, 'draw_odds': 5.4, 'away_odds': 9.4, 'date': '18.Oct.2022'}
+{'home_team': 'Bournemouth', 'away_team': 'Southampton', 'home_odds': 2.8, 'draw_odds': 3.35, 'away_odds': 2.98, 'date': '19.Oct.2022'}
+{'home_team': 'Brentford', 'away_team': 'Chelsea', 'home_odds': 4.5, 'draw_odds': 3.85, 'away_odds': 1.94, 'date': '19.Oct.2022'}
+{'home_team': 'Liverpool', 'away_team': 'West Ham', 'home_odds': 1.43, 'draw_odds': 5.3, 'away_odds': 8.8, 'date': '19.Oct.2022'}
+{'home_team': 'Man Utd', 'away_team': 'Tottenham', 'home_odds': 2.36, 'draw_odds': 3.75, 'away_odds': 3.25, 'date': '19.Oct.2022'}
+{'home_team': 'Newcastle', 'away_team': 'Everton', 'home_odds': 1.69, 'draw_odds': 4.2, 'away_odds': 5.9, 'date': '19.Oct.2022'}
+{'home_team': 'Man City', 'away_team': 'Man Utd', 'home_odds': 1.45, 'draw_odds': 5.9, 'away_odds': 7.0, 'date': '2.Oct.2022'}
+{'home_team': 'Leeds', 'away_team': 'Aston Villa', 'home_odds': 2.42, 'draw_odds': 3.55, 'away_odds': 3.2, 'date': '2.Oct.2022'}
+{'home_team': 'Fulham', 'away_team': 'Aston Villa', 'home_odds': 3.1, 'draw_odds': 3.5, 'away_odds': 2.52, 'date': '20.Oct.2022'}
+{'home_team': 'Leicester', 'away_team': 'Leeds', 'home_odds': 2.4, 'draw_odds': 3.7, 'away_odds': 3.2, 'date': '20.Oct.2022'}
+{'home_team': 'Everton', 'away_team': 'Crystal Palace', 'home_odds': 2.5, 'draw_odds': 3.25, 'away_odds': 3.4, 'date': '22.Oct.2022'}
+{'home_team': 'Chelsea', 'away_team': 'Man Utd', 'home_odds': 2.16, 'draw_odds': 3.7, 'away_odds': 3.7, 'date': '22.Oct.2022'}
+{'home_team': 'Nottm Forest', 'away_team': 'Liverpool', 'home_odds': 10.5, 'draw_odds': 5.9, 'away_odds': 1.36, 'date': '22.Oct.2022'}
+{'home_team': 'Man City', 'away_team': 'Brighton', 'home_odds': 1.23, 'draw_odds': 7.4, 'away_odds': 17.5, 'date': '22.Oct.2022'}
+{'home_team': 'Aston Villa', 'away_team': 'Brentford', 'home_odds': 2.1, 'draw_odds': 3.6, 'away_odds': 3.95, 'date': '23.Oct.2022'}
+{'home_team': 'Leeds', 'away_team': 'Fulham', 'home_odds': 2.12, 'draw_odds': 3.85, 'away_odds': 3.65, 'date': '23.Oct.2022'}
+{'home_team': 'Southampton', 'away_team': 'Arsenal', 'home_odds': 7.8, 'draw_odds': 5.1, 'away_odds': 1.47, 'date': '23.Oct.2022'}
+{'home_team': 'Tottenham', 'away_team': 'Newcastle', 'home_odds': 2.36, 'draw_odds': 3.55, 'away_odds': 3.45, 'date': '23.Oct.2022'}
+{'home_team': 'West Ham', 'away_team': 'Bournemouth', 'home_odds': 1.65, 'draw_odds': 4.1, 'away_odds': 6.6, 'date': '24.Oct.2022'}
+{'home_team': 'Wolves', 'away_team': 'Leicester', 'home_odds': 2.44, 'draw_odds': 3.45, 'away_odds': 3.25, 'date': '23.Oct.2022'}
+{'home_team': 'Fulham', 'away_team': 'Everton', 'home_odds': 2.32, 'draw_odds': 3.55, 'away_odds': 3.5, 'date': '29.Oct.2022'}
+{'home_team': 'Newcastle', 'away_team': 'Aston Villa', 'home_odds': 1.78, 'draw_odds': 4.0, 'away_odds': 5.5, 'date': '29.Oct.2022'}
+{'home_team': 'Crystal Palace', 'away_team': 'Southampton', 'home_odds': 2.12, 'draw_odds': 3.55, 'away_odds': 4.2, 'date': '29.Oct.2022'}
+{'home_team': 'Brighton', 'away_team': 'Chelsea', 'home_odds': 3.3, 'draw_odds': 3.45, 'away_odds': 2.46, 'date': '29.Oct.2022'}
+{'home_team': 'Bournemouth', 'away_team': 'Tottenham', 'home_odds': 5.4, 'draw_odds': 4.1, 'away_odds': 1.78, 'date': '29.Oct.2022'}
+{'home_team': 'Liverpool', 'away_team': 'Leeds', 'home_odds': 1.24, 'draw_odds': 8.6, 'away_odds': 14.0, 'date': '29.Oct.2022'}
+{'home_team': 'Leicester', 'away_team': 'Man City', 'home_odds': 8.8, 'draw_odds': 5.4, 'away_odds': 1.42, 'date': '29.Oct.2022'}
+{'home_team': 'Brentford', 'away_team': 'Wolves', 'home_odds': 2.2, 'draw_odds': 3.7, 'away_odds': 3.7, 'date': '29.Oct.2022'}
+{'home_team': 'Leicester', 'away_team': 'Nottm Forest', 'home_odds': 1.74, 'draw_odds': 4.3, 'away_odds': 5.3, 'date': '3.Oct.2022'}
+{'home_team': 'Arsenal', 'away_team': 'Nottm Forest', 'home_odds': 1.22, 'draw_odds': 7.6, 'away_odds': 17.0, 'date': '30.Oct.2022'}
+{'home_team': 'Man Utd', 'away_team': 'West Ham', 'home_odds': 1.74, 'draw_odds': 4.0, 'away_odds': 5.6, 'date': '30.Oct.2022'}
+{'home_team': 'Newcastle', 'away_team': 'Brentford', 'home_odds': 1.7, 'draw_odds': 4.4, 'away_odds': 5.3, 'date': '8.Oct.2022'}
+{'home_team': 'Chelsea', 'away_team': 'Wolves', 'home_odds': 1.53, 'draw_odds': 4.6, 'away_odds': 7.6, 'date': '8.Oct.2022'}
+{'home_team': 'Man City', 'away_team': 'Southampton', 'home_odds': 1.12, 'draw_odds': 13.0, 'away_odds': 30.0, 'date': '8.Oct.2022'}
+{'home_team': 'Bournemouth', 'away_team': 'Leicester', 'home_odds': 3.5, 'draw_odds': 3.7, 'away_odds': 2.24, 'date': '8.Oct.2022'}
+{'home_team': 'Brighton', 'away_team': 'Tottenham', 'home_odds': 2.66, 'draw_odds': 3.5, 'away_odds': 2.98, 'date': '8.Oct.2022'}
+{'home_team': 'West Ham', 'away_team': 'Fulham', 'home_odds': 1.67, 'draw_odds': 4.2, 'away_odds': 6.2, 'date': '9.Oct.2022'}
+{'home_team': 'Arsenal', 'away_team': 'Liverpool', 'home_odds': 2.6, 'draw_odds': 3.8, 'away_odds': 2.78, 'date': '9.Oct.2022'}
+{'home_team': 'Crystal Palace', 'away_team': 'Leeds', 'home_odds': 2.1, 'draw_odds': 3.65, 'away_odds': 3.85, 'date': '9.Oct.2022'}
+{'home_team': 'Everton', 'away_team': 'Man Utd', 'home_odds': 3.85, 'draw_odds': 3.65, 'away_odds': 2.12, 'date': '9.Oct.2022'}
+{'home_team': 'Leicester', 'away_team': 'Man Utd', 'home_odds': 3.5, 'draw_odds': 3.9, 'away_odds': 2.2, 'date': '1.Sep.2022'}
+{'home_team': 'Aston Villa', 'away_team': 'Southampton', 'home_odds': 2.16, 'draw_odds': 3.65, 'away_odds': 3.85, 'date': '16.Sep.2022'}
+{'home_team': 'Nottm Forest', 'away_team': 'Fulham', 'home_odds': 2.78, 'draw_odds': 3.65, 'away_odds': 2.74, 'date': '16.Sep.2022'}
+{'home_team': 'Tottenham', 'away_team': 'Leicester', 'home_odds': 1.54, 'draw_odds': 4.8, 'away_odds': 7.0, 'date': '17.Sep.2022'}
+{'home_team': 'Wolves', 'away_team': 'Man City', 'home_odds': 10.5, 'draw_odds': 6.0, 'away_odds': 1.38, 'date': '17.Sep.2022'}
+{'home_team': 'Newcastle', 'away_team': 'Bournemouth', 'home_odds': 1.42, 'draw_odds': 5.8, 'away_odds': 8.2, 'date': '17.Sep.2022'}
+{'home_team': 'Brentford', 'away_team': 'Arsenal', 'home_odds': 4.8, 'draw_odds': 4.0, 'away_odds': 1.84, 'date': '18.Sep.2022'}
+{'home_team': 'Everton', 'away_team': 'West Ham', 'home_odds': 3.0, 'draw_odds': 3.45, 'away_odds': 2.64, 'date': '18.Sep.2022'}
+{'home_team': 'Brentford', 'away_team': 'Leeds', 'home_odds': 2.2, 'draw_odds': 3.65, 'away_odds': 3.7, 'date': '3.Sep.2022'}
+{'home_team': 'Chelsea', 'away_team': 'West Ham', 'home_odds': 1.7, 'draw_odds': 4.1, 'away_odds': 5.9, 'date': '3.Sep.2022'}
+{'home_team': 'Newcastle', 'away_team': 'Crystal Palace', 'home_odds': 2.1, 'draw_odds': 3.55, 'away_odds': 3.75, 'date': '3.Sep.2022'}
+{'home_team': 'Everton', 'away_team': 'Liverpool', 'home_odds': 8.6, 'draw_odds': 5.7, 'away_odds': 1.4, 'date': '3.Sep.2022'}
+{'home_team': 'Tottenham', 'away_team': 'Fulham', 'home_odds': 1.57, 'draw_odds': 4.6, 'away_odds': 7.0, 'date': '3.Sep.2022'}
+{'home_team': 'Nottm Forest', 'away_team': 'Bournemouth', 'home_odds': 2.24, 'draw_odds': 3.35, 'away_odds': 3.8, 'date': '3.Sep.2022'}
+{'home_team': 'Wolves', 'away_team': 'Southampton', 'home_odds': 2.22, 'draw_odds': 3.55, 'away_odds': 3.9, 'date': '3.Sep.2022'}
+{'home_team': 'Aston Villa', 'away_team': 'Man City', 'home_odds': 11.5, 'draw_odds': 6.2, 'away_odds': 1.33, 'date': '3.Sep.2022'}
+{'home_team': 'Man Utd', 'away_team': 'Arsenal', 'home_odds': 2.76, 'draw_odds': 3.55, 'away_odds': 2.78, 'date': '4.Sep.2022'}
+{'home_team': 'Brighton', 'away_team': 'Leicester', 'home_odds': 2.0, 'draw_odds': 3.65, 'away_odds': 4.5, 'date': '4.Sep.2022'}
+{'home_team': 'Bournemouth', 'away_team': 'Fulham', 'home_odds': 2.7, 'draw_odds': 3.4, 'away_odds': 3.0, 'date': '1.Apr.2023'}
+{'home_team': 'Brighton', 'away_team': 'Brentford', 'home_odds': 1.61, 'draw_odds': 4.5, 'away_odds': 6.4, 'date': '1.Apr.2023'}
+{'home_team': 'Chelsea', 'away_team': 'Aston Villa', 'home_odds': 1.64, 'draw_odds': 4.4, 'away_odds': 6.2, 'date': '1.Apr.2023'}
+{'home_team': 'Crystal Palace', 'away_team': 'Leicester', 'home_odds': 2.36, 'draw_odds': 3.55, 'away_odds': 3.35, 'date': '1.Apr.2023'}
+{'home_team': 'Man City', 'away_team': 'Liverpool', 'home_odds': 1.69, 'draw_odds': 4.3, 'away_odds': 5.4, 'date': '1.Apr.2023'}
+{'home_team': 'Arsenal', 'away_team': 'Leeds', 'home_odds': 1.27, 'draw_odds': 7.0, 'away_odds': 14.0, 'date': '1.Apr.2023'}
+{'home_team': 'Nottm Forest', 'away_team': 'Wolves', 'home_odds': 3.55, 'draw_odds': 3.3, 'away_odds': 2.42, 'date': '1.Apr.2023'}
+{'home_team': 'Southampton', 'away_team': 'Man City', 'home_odds': 15.0, 'draw_odds': 6.8, 'away_odds': 1.26, 'date': '8.Apr.2023'}
+{'home_team': 'Leeds', 'away_team': 'Crystal Palace', 'home_odds': 2.12, 'draw_odds': 3.55, 'away_odds': 4.0, 'date': '9.Apr.2023'}
+{'home_team': 'Aston Villa', 'away_team': 'Newcastle', 'home_odds': 3.65, 'draw_odds': 3.55, 'away_odds': 2.24, 'date': '15.Apr.2023'}
+{'home_team': 'Tottenham', 'away_team': 'Bournemouth', 'home_odds': 1.51, 'draw_odds': 4.8, 'away_odds': 7.6, 'date': '15.Apr.2023'}
+{'home_team': 'Chelsea', 'away_team': 'Brighton', 'home_odds': 3.3, 'draw_odds': 3.45, 'away_odds': 2.46, 'date': '15.Apr.2023'}
+{'home_team': 'Southampton', 'away_team': 'Crystal Palace', 'home_odds': 2.92, 'draw_odds': 3.25, 'away_odds': 2.82, 'date': '15.Apr.2023'}
+{'home_team': 'Man City', 'away_team': 'Leicester', 'home_odds': 1.15, 'draw_odds': 11.0, 'away_odds': 23.0, 'date': '15.Apr.2023'}
+{'home_team': 'Everton', 'away_team': 'Fulham', 'home_odds': 2.34, 'draw_odds': 3.4, 'away_odds': 3.7, 'date': '15.Apr.2023'}
+{'home_team': 'Wolves', 'away_team': 'Brentford', 'home_odds': 2.94, 'draw_odds': 3.3, 'away_odds': 2.76, 'date': '15.Apr.2023'}
+{'home_team': 'Nottm Forest', 'away_team': 'Man Utd', 'home_odds': 5.1, 'draw_odds': 4.3, 'away_odds': 1.74, 'date': '16.Apr.2023'}
+{'home_team': 'West Ham', 'away_team': 'Arsenal', 'home_odds': 6.2, 'draw_odds': 4.6, 'away_odds': 1.58, 'date': '16.Apr.2023'}
+{'home_team': 'Leeds', 'away_team': 'Liverpool', 'home_odds': 4.8, 'draw_odds': 4.7, 'away_odds': 1.73, 'date': '17.Apr.2023'}
+{'home_team': 'Newcastle', 'away_team': 'Man Utd', 'home_odds': 2.4, 'draw_odds': 3.7, 'away_odds': 3.2, 'date': '2.Apr.2023'}
+{'home_team': 'West Ham', 'away_team': 'Southampton', 'home_odds': 1.81, 'draw_odds': 3.85, 'away_odds': 5.4, 'date': '2.Apr.2023'}
+{'home_team': 'Arsenal', 'away_team': 'Southampton', 'home_odds': 1.5, 'draw_odds': 5.0, 'away_odds': 13.0, 'date': '21.Apr.2023'}
+{'home_team': 'Crystal Palace', 'away_team': 'Everton', 'home_odds': 2.0, 'draw_odds': 3.5, 'away_odds': 4.7, 'date': '22.Apr.2023'}
+{'home_team': 'Liverpool', 'away_team': 'Nottm Forest', 'home_odds': 1.19, 'draw_odds': 9.6, 'away_odds': 20.0, 'date': '22.Apr.2023'}
+{'home_team': 'Brentford', 'away_team': 'Aston Villa', 'home_odds': 2.8, 'draw_odds': 3.45, 'away_odds': 2.88, 'date': '22.Apr.2023'}
+{'home_team': 'Leicester', 'away_team': 'Wolves', 'home_odds': 2.5, 'draw_odds': 3.5, 'away_odds': 3.2, 'date': '22.Apr.2023'}
+{'home_team': 'Brighton', 'away_team': 'Man Utd', 'home_odds': 2.4, 'draw_odds': 4.0, 'away_odds': 2.98, 'date': '23.Apr.2023', 'other': True}
+{'home_team': 'Bournemouth', 'away_team': 'West Ham', 'home_odds': 3.15, 'draw_odds': 3.4, 'away_odds': 2.58, 'date': '23.Apr.2023'}
+{'home_team': 'Newcastle', 'away_team': 'Tottenham', 'home_odds': 1.95, 'draw_odds': 3.85, 'away_odds': 4.4, 'date': '23.Apr.2023'}
+{'home_team': 'Leeds', 'away_team': 'Leicester', 'home_odds': 2.44, 'draw_odds': 3.8, 'away_odds': 3.05, 'date': '25.Apr.2023'}
+{'home_team': 'Aston Villa', 'away_team': 'Fulham', 'home_odds': 1.8, 'draw_odds': 4.0, 'away_odds': 5.1, 'date': '25.Apr.2023'}
+{'home_team': 'Wolves', 'away_team': 'Crystal Palace', 'home_odds': 2.38, 'draw_odds': 3.15, 'away_odds': 3.9, 'date': '25.Apr.2023'}
+{'home_team': 'Man City', 'away_team': 'Arsenal', 'home_odds': 1.67, 'draw_odds': 4.5, 'away_odds': 5.7, 'date': '26.Apr.2023'}
+{'home_team': 'Nottm Forest', 'away_team': 'Brighton', 'home_odds': 5.9, 'draw_odds': 4.4, 'away_odds': 1.65, 'date': '26.Apr.2023'}
+{'home_team': 'West Ham', 'away_team': 'Liverpool', 'home_odds': 3.75, 'draw_odds': 3.95, 'away_odds': 2.08, 'date': '26.Apr.2023'}
+{'home_team': 'Chelsea', 'away_team': 'Brentford', 'home_odds': 1.91, 'draw_odds': 3.65, 'away_odds': 4.9, 'date': '26.Apr.2023'}
+{'home_team': 'Southampton', 'away_team': 'Bournemouth', 'home_odds': 2.66, 'draw_odds': 3.35, 'away_odds': 3.05, 'date': '27.Apr.2023'}
+{'home_team': 'Tottenham', 'away_team': 'Man Utd', 'home_odds': 2.96, 'draw_odds': 4.0, 'away_odds': 2.42, 'date': '27.Apr.2023'}
+{'home_team': 'Everton', 'away_team': 'Newcastle', 'home_odds': 4.7, 'draw_odds': 3.9, 'away_odds': 1.88, 'date': '27.Apr.2023'}
+{'home_team': 'Crystal Palace', 'away_team': 'West Ham', 'home_odds': 2.5, 'draw_odds': 3.45, 'away_odds': 3.2, 'date': '29.Apr.2023'}
+{'home_team': 'Brentford', 'away_team': 'Nottm Forest', 'home_odds': 1.78, 'draw_odds': 4.0, 'away_odds': 5.2, 'date': '29.Apr.2023'}
+{'home_team': 'Brighton', 'away_team': 'Wolves', 'home_odds': 1.64, 'draw_odds': 4.6, 'away_odds': 6.2, 'date': '29.Apr.2023'}
+{'home_team': 'Everton', 'away_team': 'Tottenham', 'home_odds': 4.1, 'draw_odds': 3.65, 'away_odds': 2.08, 'date': '3.Apr.2023'}
+{'home_team': 'Bournemouth', 'away_team': 'Leeds', 'home_odds': 2.54, 'draw_odds': 3.55, 'away_odds': 3.1, 'date': '30.Apr.2023'}
+{'home_team': 'Fulham', 'away_team': 'Man City', 'home_odds': 14.0, 'draw_odds': 6.8, 'away_odds': 1.28, 'date': '30.Apr.2023'}
+{'home_team': 'Liverpool', 'away_team': 'Tottenham', 'home_odds': 1.57, 'draw_odds': 5.2, 'away_odds': 5.7, 'date': '30.Apr.2023'}
+{'home_team': 'Newcastle', 'away_team': 'Southampton', 'home_odds': 1.27, 'draw_odds': 7.0, 'away_odds': 14.5, 'date': '30.Apr.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Aston Villa', 'home_odds': 1.82, 'draw_odds': 4.2, 'away_odds': 4.8, 'date': '30.Apr.2023'}
+{'home_team': 'Bournemouth', 'away_team': 'Brighton', 'home_odds': 6.2, 'draw_odds': 4.6, 'away_odds': 1.61, 'date': '4.Apr.2023'}
+{'home_team': 'Chelsea', 'away_team': 'Liverpool', 'home_odds': 2.26, 'draw_odds': 3.45, 'away_odds': 3.65, 'date': '4.Apr.2023'}
+{'home_team': 'Leicester', 'away_team': 'Aston Villa', 'home_odds': 2.8, 'draw_odds': 3.7, 'away_odds': 2.76, 'date': '4.Apr.2023'}
+{'home_team': 'Leeds', 'away_team': 'Nottm Forest', 'home_odds': 1.74, 'draw_odds': 4.1, 'away_odds': 5.5, 'date': '4.Apr.2023'}
+{'home_team': 'West Ham', 'away_team': 'Newcastle', 'home_odds': 3.55, 'draw_odds': 3.4, 'away_odds': 2.38, 'date': '5.Apr.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Brentford', 'home_odds': 1.67, 'draw_odds': 4.3, 'away_odds': 5.9, 'date': '5.Apr.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Everton', 'home_odds': 1.63, 'draw_odds': 4.4, 'away_odds': 6.4, 'date': '8.Apr.2023'}
+{'home_team': 'Aston Villa', 'away_team': 'Nottm Forest', 'home_odds': 1.61, 'draw_odds': 4.3, 'away_odds': 6.6, 'date': '8.Apr.2023'}
+{'home_team': 'Brentford', 'away_team': 'Newcastle', 'home_odds': 4.3, 'draw_odds': 3.7, 'away_odds': 1.94, 'date': '8.Apr.2023'}
+{'home_team': 'Fulham', 'away_team': 'West Ham', 'home_odds': 2.94, 'draw_odds': 3.35, 'away_odds': 2.72, 'date': '8.Apr.2023'}
+{'home_team': 'Leicester', 'away_team': 'Bournemouth', 'home_odds': 2.14, 'draw_odds': 3.55, 'away_odds': 4.0, 'date': '8.Apr.2023'}
+{'home_team': 'Tottenham', 'away_team': 'Brighton', 'home_odds': 2.98, 'draw_odds': 3.6, 'away_odds': 2.58, 'date': '8.Apr.2023'}
+{'home_team': 'Wolves', 'away_team': 'Chelsea', 'home_odds': 5.2, 'draw_odds': 3.9, 'away_odds': 1.81, 'date': '8.Apr.2023'}
+{'home_team': 'Liverpool', 'away_team': 'Arsenal', 'home_odds': 2.84, 'draw_odds': 3.85, 'away_odds': 2.56, 'date': '9.Apr.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Nottm Forest', 'home_odds': 1.4, 'draw_odds': 5.7, 'away_odds': 10.0, 'date': '1.Feb.2023', 'other': True}
+{'home_team': 'Arsenal', 'away_team': 'Brentford', 'home_odds': 1.62, 'draw_odds': 4.3, 'away_odds': 6.8, 'date': '11.Feb.2023'}
+{'home_team': 'Leicester', 'away_team': 'Tottenham', 'home_odds': 3.75, 'draw_odds': 3.85, 'away_odds': 2.1, 'date': '11.Feb.2023'}
+{'home_team': 'West Ham', 'away_team': 'Chelsea', 'home_odds': 3.6, 'draw_odds': 3.5, 'away_odds': 2.28, 'date': '11.Feb.2023'}
+{'home_team': 'Bournemouth', 'away_team': 'Newcastle', 'home_odds': 6.4, 'draw_odds': 4.4, 'away_odds': 1.64, 'date': '11.Feb.2023'}
+{'home_team': 'Crystal Palace', 'away_team': 'Brighton', 'home_odds': 5.5, 'draw_odds': 3.9, 'away_odds': 1.78, 'date': '11.Feb.2023'}
+{'home_team': 'Fulham', 'away_team': 'Nottm Forest', 'home_odds': 2.0, 'draw_odds': 3.6, 'away_odds': 4.5, 'date': '11.Feb.2023'}
+{'home_team': 'Southampton', 'away_team': 'Wolves', 'home_odds': 3.35, 'draw_odds': 3.3, 'away_odds': 2.54, 'date': '11.Feb.2023'}
+{'home_team': 'Leeds', 'away_team': 'Man Utd', 'home_odds': 3.85, 'draw_odds': 3.95, 'away_odds': 2.04, 'date': '12.Feb.2023'}
+{'home_team': 'Man City', 'away_team': 'Aston Villa', 'home_odds': 1.39, 'draw_odds': 5.5, 'away_odds': 10.0, 'date': '12.Feb.2023'}
+{'home_team': 'Liverpool', 'away_team': 'Everton', 'home_odds': 1.62, 'draw_odds': 4.3, 'away_odds': 6.4, 'date': '14.Feb.2023'}
+{'home_team': 'Arsenal', 'away_team': 'Man City', 'home_odds': 3.45, 'draw_odds': 3.6, 'away_odds': 2.34, 'date': '15.Feb.2023'}
+{'home_team': 'Everton', 'away_team': 'Leeds', 'home_odds': 2.8, 'draw_odds': 3.3, 'away_odds': 2.92, 'date': '18.Feb.2023'}
+{'home_team': 'Chelsea', 'away_team': 'Southampton', 'home_odds': 1.45, 'draw_odds': 5.0, 'away_odds': 8.8, 'date': '18.Feb.2023'}
+{'home_team': 'Brighton', 'away_team': 'Fulham', 'home_odds': 1.6, 'draw_odds': 4.6, 'away_odds': 6.6, 'date': '18.Feb.2023'}
+{'home_team': 'Brentford', 'away_team': 'Crystal Palace', 'home_odds': 1.82, 'draw_odds': 3.8, 'away_odds': 5.0, 'date': '18.Feb.2023'}
+{'home_team': 'Newcastle', 'away_team': 'Liverpool', 'home_odds': 2.64, 'draw_odds': 3.65, 'away_odds': 2.86, 'date': '18.Feb.2023'}
+{'home_team': 'Nottm Forest', 'away_team': 'Man City', 'home_odds': 11.5, 'draw_odds': 5.4, 'away_odds': 1.37, 'date': '18.Feb.2023'}
+{'home_team': 'Wolves', 'away_team': 'Bournemouth', 'home_odds': 1.84, 'draw_odds': 3.7, 'away_odds': 5.4, 'date': '18.Feb.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Leicester', 'home_odds': 1.59, 'draw_odds': 4.6, 'away_odds': 6.4, 'date': '19.Feb.2023'}
+{'home_team': 'Tottenham', 'away_team': 'West Ham', 'home_odds': 1.95, 'draw_odds': 3.6, 'away_odds': 4.8, 'date': '19.Feb.2023'}
+{'home_team': 'Fulham', 'away_team': 'Wolves', 'home_odds': 2.7, 'draw_odds': 3.2, 'away_odds': 3.15, 'date': '24.Feb.2023'}
+{'home_team': 'Newcastle', 'away_team': 'Southampton', 'home_odds': 1.39, 'draw_odds': 5.3, 'away_odds': 11.0, 'date': '25.Feb.2023', 'other': True}
+{'home_team': 'Bournemouth', 'away_team': 'Man City', 'home_odds': 12.0, 'draw_odds': 5.4, 'away_odds': 1.36, 'date': '25.Feb.2023'}
+{'home_team': 'Leicester', 'away_team': 'Arsenal', 'home_odds': 6.6, 'draw_odds': 4.5, 'away_odds': 1.57, 'date': '25.Feb.2023'}
+{'home_team': 'Crystal Palace', 'away_team': 'Liverpool', 'home_odds': 5.4, 'draw_odds': 4.3, 'away_odds': 1.71, 'date': '25.Feb.2023'}
+{'home_team': 'West Ham', 'away_team': 'Nottm Forest', 'home_odds': 1.7, 'draw_odds': 4.1, 'away_odds': 5.9, 'date': '25.Feb.2023'}
+{'home_team': 'Everton', 'away_team': 'Aston Villa', 'home_odds': 2.66, 'draw_odds': 3.3, 'away_odds': 3.15, 'date': '25.Feb.2023'}
+{'home_team': 'Leeds', 'away_team': 'Southampton', 'home_odds': 2.0, 'draw_odds': 3.85, 'away_odds': 4.2, 'date': '25.Feb.2023'}
+{'home_team': 'Tottenham', 'away_team': 'Chelsea', 'home_odds': 3.15, 'draw_odds': 3.35, 'away_odds': 2.58, 'date': '26.Feb.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Newcastle', 'home_odds': 2.18, 'draw_odds': 3.7, 'away_odds': 3.7, 'date': '27.Feb.2023', 'other': True}
+{'home_team': 'Fulham', 'away_team': 'Leeds', 'home_odds': 2.36, 'draw_odds': 3.7, 'away_odds': 3.25, 'date': '28.Feb.2023', 'other': True}
+{'home_team': 'Chelsea', 'away_team': 'Fulham', 'home_odds': 1.65, 'draw_odds': 4.2, 'away_odds': 6.4, 'date': '3.Feb.2023'}
+{'home_team': 'Wolves', 'away_team': 'Liverpool', 'home_odds': 4.1, 'draw_odds': 3.9, 'away_odds': 2.02, 'date': '4.Feb.2023'}
+{'home_team': 'Everton', 'away_team': 'Arsenal', 'home_odds': 8.6, 'draw_odds': 4.3, 'away_odds': 1.53, 'date': '4.Feb.2023'}
+{'home_team': 'Aston Villa', 'away_team': 'Leicester', 'home_odds': 2.16, 'draw_odds': 3.55, 'away_odds': 3.95, 'date': '4.Feb.2023'}
+{'home_team': 'Brighton', 'away_team': 'Bournemouth', 'home_odds': 1.43, 'draw_odds': 5.2, 'away_odds': 8.6, 'date': '4.Feb.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Crystal Palace', 'home_odds': 1.42, 'draw_odds': 5.2, 'away_odds': 10.5, 'date': '4.Feb.2023'}
+{'home_team': 'Newcastle', 'away_team': 'West Ham', 'home_odds': 1.28, 'draw_odds': 7.0, 'away_odds': 13.0, 'date': '4.Feb.2023'}
+{'home_team': 'Brentford', 'away_team': 'Southampton', 'home_odds': 1.82, 'draw_odds': 3.85, 'away_odds': 5.1, 'date': '4.Feb.2023'}
+{'home_team': 'Tottenham', 'away_team': 'Man City', 'home_odds': 4.1, 'draw_odds': 4.0, 'away_odds': 1.95, 'date': '5.Feb.2023'}
+{'home_team': 'Nottm Forest', 'away_team': 'Leeds', 'home_odds': 2.94, 'draw_odds': 3.55, 'away_odds': 2.66, 'date': '5.Feb.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Leeds', 'home_odds': 1.63, 'draw_odds': 4.5, 'away_odds': 6.4, 'date': '8.Feb.2023'}
+{'home_team': 'Nottm Forest', 'away_team': 'Chelsea', 'home_odds': 6.2, 'draw_odds': 4.4, 'away_odds': 1.67, 'date': '1.Jan.2023'}
+{'home_team': 'Tottenham', 'away_team': 'Aston Villa', 'home_odds': 1.65, 'draw_odds': 4.5, 'away_odds': 5.8, 'date': '1.Jan.2023'}
+{'home_team': 'Newcastle', 'away_team': 'Leicester', 'home_odds': 1.51, 'draw_odds': 4.9, 'away_odds': 7.2, 'date': '10.Jan.2023', 'other': True}
+{'home_team': 'Nottm Forest', 'away_team': 'Wolves', 'home_odds': 2.82, 'draw_odds': 3.3, 'away_odds': 2.96, 'date': '11.Jan.2023', 'other': True}
+{'home_team': 'Southampton', 'away_team': 'Man City', 'home_odds': 11.0, 'draw_odds': 5.7, 'away_odds': 1.36, 'date': '11.Jan.2023', 'other': True}
+{'home_team': 'Fulham', 'away_team': 'Chelsea', 'home_odds': 4.3, 'draw_odds': 3.45, 'away_odds': 2.1, 'date': '12.Jan.2023'}
+{'home_team': 'Aston Villa', 'away_team': 'Leeds', 'home_odds': 2.04, 'draw_odds': 3.75, 'away_odds': 4.0, 'date': '13.Jan.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Man City', 'home_odds': 4.2, 'draw_odds': 4.2, 'away_odds': 1.92, 'date': '14.Jan.2023'}
+{'home_team': 'Brentford', 'away_team': 'Bournemouth', 'home_odds': 1.64, 'draw_odds': 4.2, 'away_odds': 6.6, 'date': '14.Jan.2023'}
+{'home_team': 'Brighton', 'away_team': 'Liverpool', 'home_odds': 3.0, 'draw_odds': 3.9, 'away_odds': 2.44, 'date': '14.Jan.2023'}
+{'home_team': 'Everton', 'away_team': 'Southampton', 'home_odds': 2.5, 'draw_odds': 3.35, 'away_odds': 3.3, 'date': '14.Jan.2023'}
+{'home_team': 'Nottm Forest', 'away_team': 'Leicester', 'home_odds': 2.8, 'draw_odds': 3.35, 'away_odds': 2.9, 'date': '14.Jan.2023'}
+{'home_team': 'Wolves', 'away_team': 'West Ham', 'home_odds': 2.56, 'draw_odds': 3.25, 'away_odds': 3.4, 'date': '14.Jan.2023'}
+{'home_team': 'Newcastle', 'away_team': 'Fulham', 'home_odds': 1.51, 'draw_odds': 4.8, 'away_odds': 7.8, 'date': '15.Jan.2023'}
+{'home_team': 'Tottenham', 'away_team': 'Arsenal', 'home_odds': 3.4, 'draw_odds': 3.55, 'away_odds': 2.36, 'date': '15.Jan.2023'}
+{'home_team': 'Chelsea', 'away_team': 'Crystal Palace', 'home_odds': 1.94, 'draw_odds': 3.65, 'away_odds': 4.8, 'date': '15.Jan.2023'}
+{'home_team': 'Wolves', 'away_team': 'Liverpool', 'home_odds': 3.3, 'draw_odds': 3.75, 'away_odds': 2.32, 'date': '17.Jan.2023', 'other': True}
+{'home_team': 'Crystal Palace', 'away_team': 'Man Utd', 'home_odds': 6.0, 'draw_odds': 4.1, 'away_odds': 1.69, 'date': '18.Jan.2023'}
+{'home_team': 'Man City', 'away_team': 'Tottenham', 'home_odds': 1.55, 'draw_odds': 4.9, 'away_odds': 6.8, 'date': '19.Jan.2023'}
+{'home_team': 'Brighton', 'away_team': 'Arsenal', 'home_odds': 4.8, 'draw_odds': 3.85, 'away_odds': 1.88, 'date': '31.Dec.2022'}
+{'home_team': 'Brentford', 'away_team': 'Liverpool', 'home_odds': 6.8, 'draw_odds': 4.8, 'away_odds': 1.56, 'date': '2.Jan.2023'}
+{'home_team': 'Bournemouth', 'away_team': 'Nottm Forest', 'home_odds': 2.88, 'draw_odds': 3.3, 'away_odds': 2.78, 'date': '21.Jan.2023'}
+{'home_team': 'Crystal Palace', 'away_team': 'Newcastle', 'home_odds': 4.6, 'draw_odds': 3.8, 'away_odds': 1.9, 'date': '21.Jan.2023'}
+{'home_team': 'Liverpool', 'away_team': 'Chelsea', 'home_odds': 2.1, 'draw_odds': 3.6, 'away_odds': 4.0, 'date': '21.Jan.2023'}
+{'home_team': 'West Ham', 'away_team': 'Everton', 'home_odds': 1.87, 'draw_odds': 3.75, 'away_odds': 5.2, 'date': '21.Jan.2023'}
+{'home_team': 'Leicester', 'away_team': 'Brighton', 'home_odds': 4.4, 'draw_odds': 4.3, 'away_odds': 1.87, 'date': '21.Jan.2023'}
+{'home_team': 'Southampton', 'away_team': 'Aston Villa', 'home_odds': 2.76, 'draw_odds': 3.25, 'away_odds': 3.0, 'date': '21.Jan.2023'}
+{'home_team': 'Leeds', 'away_team': 'Brentford', 'home_odds': 2.42, 'draw_odds': 3.65, 'away_odds': 3.15, 'date': '22.Jan.2023'}
+{'home_team': 'Arsenal', 'away_team': 'Man Utd', 'home_odds': 1.88, 'draw_odds': 4.1, 'away_odds': 4.5, 'date': '22.Jan.2023'}
+{'home_team': 'Man City', 'away_team': 'Wolves', 'home_odds': 1.3, 'draw_odds': 6.6, 'away_odds': 13.0, 'date': '22.Jan.2023'}
+{'home_team': 'Fulham', 'away_team': 'Tottenham', 'home_odds': 3.55, 'draw_odds': 3.85, 'away_odds': 2.18, 'date': '23.Jan.2023'}
+{'home_team': 'Southampton', 'away_team': 'Newcastle', 'home_odds': 6.4, 'draw_odds': 4.1, 'away_odds': 1.69, 'date': '25.Jan.2023', 'other': True}
+{'home_team': 'Nottm Forest', 'away_team': 'Man Utd', 'home_odds': 5.8, 'draw_odds': 4.4, 'away_odds': 1.68, 'date': '25.Jan.2023', 'other': True}
+{'home_team': 'Man City', 'away_team': 'Arsenal', 'home_odds': 1.57, 'draw_odds': 4.7, 'away_odds': 6.6, 'date': '27.Jan.2023', 'other': True}
+{'home_team': 'Brighton', 'away_team': 'Liverpool', 'home_odds': 2.76, 'draw_odds': 3.95, 'away_odds': 2.6, 'date': '29.Jan.2023', 'other': True}
+{'home_team': 'Arsenal', 'away_team': 'Newcastle', 'home_odds': 1.8, 'draw_odds': 3.95, 'away_odds': 5.2, 'date': '3.Jan.2023'}
+{'home_team': 'Leicester', 'away_team': 'Fulham', 'home_odds': 2.4, 'draw_odds': 3.7, 'away_odds': 3.15, 'date': '3.Jan.2023'}
+{'home_team': 'Crystal Palace', 'away_team': 'Tottenham', 'home_odds': 3.55, 'draw_odds': 3.65, 'away_odds': 2.24, 'date': '4.Jan.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Bournemouth', 'home_odds': 1.32, 'draw_odds': 6.2, 'away_odds': 12.0, 'date': '3.Jan.2023'}
+{'home_team': 'Southampton', 'away_team': 'Nottm Forest', 'home_odds': 2.44, 'draw_odds': 3.35, 'away_odds': 3.35, 'date': '4.Jan.2023'}
+{'home_team': 'Aston Villa', 'away_team': 'Wolves', 'home_odds': 1.95, 'draw_odds': 3.65, 'away_odds': 4.7, 'date': '4.Jan.2023'}
+{'home_team': 'Chelsea', 'away_team': 'Man City', 'home_odds': 5.6, 'draw_odds': 4.1, 'away_odds': 1.72, 'date': '5.Jan.2023'}
+{'home_team': 'Leeds', 'away_team': 'West Ham', 'home_odds': 3.05, 'draw_odds': 3.55, 'away_odds': 2.58, 'date': '4.Jan.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Everton', 'home_odds': 1.37, 'draw_odds': 5.8, 'away_odds': 10.5, 'date': '6.Jan.2023', 'other': True}
+{'home_team': 'Brentford', 'away_team': 'West Ham', 'home_odds': 3.85, 'draw_odds': 3.55, 'away_odds': 2.18, 'date': '7.Jan.2023', 'other': True}
+{'home_team': 'Crystal Palace', 'away_team': 'Southampton', 'home_odds': 1.82, 'draw_odds': 3.8, 'away_odds': 5.3, 'date': '7.Jan.2023', 'other': True}
+{'home_team': 'Liverpool', 'away_team': 'Wolves', 'home_odds': 1.24, 'draw_odds': 8.0, 'away_odds': 16.5, 'date': '7.Jan.2023', 'other': True}
+{'home_team': 'Man City', 'away_team': 'Chelsea', 'home_odds': 1.5, 'draw_odds': 5.0, 'away_odds': 7.6, 'date': '8.Jan.2023', 'other': True}
+{'home_team': 'Everton', 'away_team': 'Brighton', 'home_odds': 3.3, 'draw_odds': 3.45, 'away_odds': 2.44, 'date': '3.Jan.2023'}
+{'home_team': 'Man City', 'away_team': 'Man Utd', 'home_odds': 1.23, 'draw_odds': 7.2, 'away_odds': 20.0, 'date': '3.Jun.2023', 'other': True}
+{'home_team': 'Man Utd', 'away_team': 'West Ham', 'home_odds': 1.79, 'draw_odds': 4.0, 'away_odds': 5.3, 'date': '1.Mar.2023', 'other': True}
+{'home_team': 'Arsenal', 'away_team': 'Everton', 'home_odds': 1.34, 'draw_odds': 5.4, 'away_odds': 14.5, 'date': '1.Mar.2023'}
+{'home_team': 'Liverpool', 'away_team': 'Wolves', 'home_odds': 1.54, 'draw_odds': 4.8, 'away_odds': 6.8, 'date': '1.Mar.2023'}
+{'home_team': 'Tottenham', 'away_team': 'Nottm Forest', 'home_odds': 1.48, 'draw_odds': 4.8, 'away_odds': 8.8, 'date': '11.Mar.2023'}
+{'home_team': 'Crystal Palace', 'away_team': 'Man City', 'home_odds': 12.5, 'draw_odds': 5.7, 'away_odds': 1.34, 'date': '11.Mar.2023'}
+{'home_team': 'Bournemouth', 'away_team': 'Liverpool', 'home_odds': 8.2, 'draw_odds': 5.3, 'away_odds': 1.46, 'date': '11.Mar.2023'}
+{'home_team': 'Everton', 'away_team': 'Brentford', 'home_odds': 2.76, 'draw_odds': 3.1, 'away_odds': 3.1, 'date': '11.Mar.2023'}
+{'home_team': 'Leicester', 'away_team': 'Chelsea', 'home_odds': 4.1, 'draw_odds': 3.9, 'away_odds': 2.0, 'date': '11.Mar.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Southampton', 'home_odds': 1.27, 'draw_odds': 7.4, 'away_odds': 12.5, 'date': '12.Mar.2023'}
+{'home_team': 'West Ham', 'away_team': 'Aston Villa', 'home_odds': 2.44, 'draw_odds': 3.4, 'away_odds': 3.35, 'date': '12.Mar.2023'}
+{'home_team': 'Fulham', 'away_team': 'Arsenal', 'home_odds': 8.4, 'draw_odds': 5.4, 'away_odds': 1.43, 'date': '12.Mar.2023'}
+{'home_team': 'Newcastle', 'away_team': 'Wolves', 'home_odds': 1.67, 'draw_odds': 4.2, 'away_odds': 6.6, 'date': '12.Mar.2023'}
+{'home_team': 'Leeds', 'away_team': 'Brighton', 'home_odds': 4.5, 'draw_odds': 3.85, 'away_odds': 1.92, 'date': '11.Mar.2023'}
+{'home_team': 'Southampton', 'away_team': 'Brentford', 'home_odds': 3.4, 'draw_odds': 3.45, 'away_odds': 2.4, 'date': '15.Mar.2023'}
+{'home_team': 'Brighton', 'away_team': 'Crystal Palace', 'home_odds': 1.4, 'draw_odds': 5.4, 'away_odds': 10.0, 'date': '15.Mar.2023'}
+{'home_team': 'Nottm Forest', 'away_team': 'Newcastle', 'home_odds': 5.7, 'draw_odds': 3.75, 'away_odds': 1.79, 'date': '17.Mar.2023'}
+{'home_team': 'Wolves', 'away_team': 'Leeds', 'home_odds': 2.36, 'draw_odds': 3.4, 'away_odds': 3.55, 'date': '18.Mar.2023'}
+{'home_team': 'Aston Villa', 'away_team': 'Bournemouth', 'home_odds': 1.79, 'draw_odds': 4.1, 'away_odds': 5.0, 'date': '18.Mar.2023'}
+{'home_team': 'Chelsea', 'away_team': 'Everton', 'home_odds': 1.47, 'draw_odds': 4.7, 'away_odds': 9.0, 'date': '18.Mar.2023'}
+{'home_team': 'Southampton', 'away_team': 'Tottenham', 'home_odds': 4.8, 'draw_odds': 3.75, 'away_odds': 1.9, 'date': '18.Mar.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Fulham', 'home_odds': 1.55, 'draw_odds': 4.8, 'away_odds': 7.0, 'date': '19.Mar.2023', 'other': True}
+{'home_team': 'Arsenal', 'away_team': 'Crystal Palace', 'home_odds': 1.29, 'draw_odds': 6.4, 'away_odds': 15.0, 'date': '19.Mar.2023'}
+{'home_team': 'Brentford', 'away_team': 'Leicester', 'home_odds': 1.89, 'draw_odds': 4.1, 'away_odds': 4.4, 'date': '18.Mar.2023'}
+{'home_team': 'Man City', 'away_team': 'Newcastle', 'home_odds': 1.53, 'draw_odds': 4.6, 'away_odds': 7.8, 'date': '4.Mar.2023'}
+{'home_team': 'Southampton', 'away_team': 'Leicester', 'home_odds': 3.0, 'draw_odds': 3.5, 'away_odds': 2.62, 'date': '4.Mar.2023'}
+{'home_team': 'Chelsea', 'away_team': 'Leeds', 'home_odds': 1.62, 'draw_odds': 4.2, 'away_odds': 6.8, 'date': '4.Mar.2023'}
+{'home_team': 'Arsenal', 'away_team': 'Bournemouth', 'home_odds': 1.58, 'draw_odds': 3.4, 'away_odds': 4.1, 'date': '4.Mar.2023'}
+{'home_team': 'Brighton', 'away_team': 'West Ham', 'home_odds': 1.7, 'draw_odds': 4.2, 'away_odds': 5.7, 'date': '4.Mar.2023'}
+{'home_team': 'Wolves', 'away_team': 'Tottenham', 'home_odds': 3.4, 'draw_odds': 3.55, 'away_odds': 2.4, 'date': '4.Mar.2023'}
+{'home_team': 'Liverpool', 'away_team': 'Man Utd', 'home_odds': 2.44, 'draw_odds': 3.75, 'away_odds': 3.05, 'date': '5.Mar.2023'}
+{'home_team': 'Nottm Forest', 'away_team': 'Everton', 'home_odds': 3.15, 'draw_odds': 3.15, 'away_odds': 2.74, 'date': '5.Mar.2023'}
+{'home_team': 'Brentford', 'away_team': 'Fulham', 'home_odds': 2.14, 'draw_odds': 3.7, 'away_odds': 3.9, 'date': '6.Mar.2023'}
+{'home_team': 'Aston Villa', 'away_team': 'Tottenham', 'home_odds': 2.26, 'draw_odds': 3.9, 'away_odds': 3.3, 'date': '13.May.2023'}
+{'home_team': 'Chelsea', 'away_team': 'Nottm Forest', 'home_odds': 1.63, 'draw_odds': 4.3, 'away_odds': 6.4, 'date': '13.May.2023'}
+{'home_team': 'Crystal Palace', 'away_team': 'Bournemouth', 'home_odds': 1.83, 'draw_odds': 3.95, 'away_odds': 5.0, 'date': '13.May.2023'}
+{'home_team': 'Leeds', 'away_team': 'Newcastle', 'home_odds': 5.5, 'draw_odds': 4.6, 'away_odds': 1.67, 'date': '13.May.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Wolves', 'home_odds': 1.37, 'draw_odds': 5.6, 'away_odds': 10.5, 'date': '13.May.2023'}
+{'home_team': 'Southampton', 'away_team': 'Fulham', 'home_odds': 2.82, 'draw_odds': 3.7, 'away_odds': 2.66, 'date': '13.May.2023'}
+{'home_team': 'Arsenal', 'away_team': 'Brighton', 'home_odds': 1.74, 'draw_odds': 4.7, 'away_odds': 4.8, 'date': '14.May.2023'}
+{'home_team': 'Brentford', 'away_team': 'West Ham', 'home_odds': 1.86, 'draw_odds': 3.8, 'away_odds': 5.1, 'date': '14.May.2023'}
+{'home_team': 'Everton', 'away_team': 'Man City', 'home_odds': 9.6, 'draw_odds': 5.5, 'away_odds': 1.39, 'date': '14.May.2023'}
+{'home_team': 'Leicester', 'away_team': 'Liverpool', 'home_odds': 5.1, 'draw_odds': 4.4, 'away_odds': 1.74, 'date': '15.May.2023'}
+{'home_team': 'Newcastle', 'away_team': 'Brighton', 'home_odds': 1.77, 'draw_odds': 4.5, 'away_odds': 4.8, 'date': '18.May.2023'}
+{'home_team': 'Arsenal', 'away_team': 'Chelsea', 'home_odds': 1.63, 'draw_odds': 4.5, 'away_odds': 6.0, 'date': '2.May.2023'}
+{'home_team': 'Bournemouth', 'away_team': 'Man Utd', 'home_odds': 7.8, 'draw_odds': 5.9, 'away_odds': 1.42, 'date': '20.May.2023'}
+{'home_team': 'Liverpool', 'away_team': 'Aston Villa', 'home_odds': 1.5, 'draw_odds': 5.2, 'away_odds': 6.8, 'date': '20.May.2023'}
+{'home_team': 'Tottenham', 'away_team': 'Brentford', 'home_odds': 2.0, 'draw_odds': 4.1, 'away_odds': 3.8, 'date': '20.May.2023'}
+{'home_team': 'Fulham', 'away_team': 'Crystal Palace', 'home_odds': 2.42, 'draw_odds': 3.35, 'away_odds': 3.45, 'date': '20.May.2023'}
+{'home_team': 'Wolves', 'away_team': 'Everton', 'home_odds': 3.25, 'draw_odds': 3.85, 'away_odds': 2.3, 'date': '20.May.2023'}
+{'home_team': 'Nottm Forest', 'away_team': 'Arsenal', 'home_odds': 5.4, 'draw_odds': 4.6, 'away_odds': 1.7, 'date': '20.May.2023'}
+{'home_team': 'Brighton', 'away_team': 'Southampton', 'home_odds': 1.23, 'draw_odds': 8.6, 'away_odds': 15.5, 'date': '21.May.2023'}
+{'home_team': 'West Ham', 'away_team': 'Leeds', 'home_odds': 2.76, 'draw_odds': 3.7, 'away_odds': 2.7, 'date': '21.May.2023'}
+{'home_team': 'Man City', 'away_team': 'Chelsea', 'home_odds': 1.64, 'draw_odds': 4.3, 'away_odds': 6.2, 'date': '21.May.2023'}
+{'home_team': 'Newcastle', 'away_team': 'Leicester', 'home_odds': 1.35, 'draw_odds': 6.2, 'away_odds': 10.0, 'date': '22.May.2023'}
+{'home_team': 'Brighton', 'away_team': 'Man City', 'home_odds': 3.95, 'draw_odds': 4.2, 'away_odds': 1.96, 'date': '24.May.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Chelsea', 'home_odds': 1.58, 'draw_odds': 4.5, 'away_odds': 6.8, 'date': '25.May.2023'}
+{'home_team': 'Arsenal', 'away_team': 'Wolves', 'home_odds': 1.34, 'draw_odds': 6.8, 'away_odds': 10.5, 'date': '28.May.2023'}
+{'home_team': 'Aston Villa', 'away_team': 'Brighton', 'home_odds': 1.96, 'draw_odds': 4.1, 'away_odds': 4.0, 'date': '28.May.2023'}
+{'home_team': 'Brentford', 'away_team': 'Man City', 'home_odds': 3.35, 'draw_odds': 3.65, 'away_odds': 2.34, 'date': '28.May.2023'}
+{'home_team': 'Chelsea', 'away_team': 'Newcastle', 'home_odds': 2.82, 'draw_odds': 4.0, 'away_odds': 2.56, 'date': '28.May.2023'}
+{'home_team': 'Crystal Palace', 'away_team': 'Nottm Forest', 'home_odds': 1.63, 'draw_odds': 4.6, 'away_odds': 6.0, 'date': '28.May.2023'}
+{'home_team': 'Everton', 'away_team': 'Bournemouth', 'home_odds': 1.64, 'draw_odds': 4.6, 'away_odds': 5.8, 'date': '28.May.2023'}
+{'home_team': 'Leeds', 'away_team': 'Tottenham', 'home_odds': 2.92, 'draw_odds': 4.1, 'away_odds': 2.38, 'date': '28.May.2023'}
+{'home_team': 'Leicester', 'away_team': 'West Ham', 'home_odds': 2.14, 'draw_odds': 4.2, 'away_odds': 3.45, 'date': '28.May.2023'}
+{'home_team': 'Man Utd', 'away_team': 'Fulham', 'home_odds': 1.51, 'draw_odds': 5.5, 'away_odds': 6.8, 'date': '28.May.2023'}
+{'home_team': 'Southampton', 'away_team': 'Liverpool', 'home_odds': 6.2, 'draw_odds': 5.3, 'away_odds': 1.56, 'date': '28.May.2023'}
+{'home_team': 'Liverpool', 'away_team': 'Fulham', 'home_odds': 1.34, 'draw_odds': 6.4, 'away_odds': 10.5, 'date': '3.May.2023'}
+{'home_team': 'Brighton', 'away_team': 'Man Utd', 'home_odds': 2.28, 'draw_odds': 3.95, 'away_odds': 3.2, 'date': '4.May.2023'}
+{'home_team': 'Man City', 'away_team': 'West Ham', 'home_odds': 1.19, 'draw_odds': 8.8, 'away_odds': 22.0, 'date': '3.May.2023'}
+{'home_team': 'Leicester', 'away_team': 'Everton', 'home_odds': 2.06, 'draw_odds': 3.65, 'away_odds': 4.1, 'date': '1.May.2023'}
+{'home_team': 'Man City', 'away_team': 'Leeds', 'home_odds': 1.19, 'draw_odds': 8.4, 'away_odds': 21.0, 'date': '6.May.2023'}
+{'home_team': 'Tottenham', 'away_team': 'Crystal Palace', 'home_odds': 1.82, 'draw_odds': 4.1, 'away_odds': 4.7, 'date': '6.May.2023'}
+{'home_team': 'Bournemouth', 'away_team': 'Chelsea', 'home_odds': 3.75, 'draw_odds': 3.65, 'away_odds': 2.18, 'date': '6.May.2023'}
+{'home_team': 'Wolves', 'away_team': 'Aston Villa', 'home_odds': 3.35, 'draw_odds': 3.5, 'away_odds': 2.36, 'date': '6.May.2023'}
+{'home_team': 'Newcastle', 'away_team': 'Arsenal', 'home_odds': 2.32, 'draw_odds': 3.95, 'away_odds': 3.1, 'date': '7.May.2023'}
+{'home_team': 'West Ham', 'away_team': 'Man Utd', 'home_odds': 3.85, 'draw_odds': 4.0, 'away_odds': 2.02, 'date': '7.May.2023'}
+{'home_team': 'Liverpool', 'away_team': 'Brentford', 'home_odds': 1.43, 'draw_odds': 5.8, 'away_odds': 7.6, 'date': '6.May.2023'}
+{'home_team': 'Fulham', 'away_team': 'Leicester', 'home_odds': 2.84, 'draw_odds': 3.55, 'away_odds': 2.78, 'date': '8.May.2023'}
+{'home_team': 'Nottm Forest', 'away_team': 'Southampton', 'home_odds': 2.06, 'draw_odds': 3.65, 'away_odds': 4.1, 'date': '8.May.2023'}
+{'home_team': 'Brighton', 'away_team': 'Everton', 'home_odds': 1.37, 'draw_odds': 6.4, 'away_odds': 8.6, 'date': '8.May.2023'}
